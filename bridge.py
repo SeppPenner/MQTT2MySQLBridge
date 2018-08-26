@@ -29,7 +29,7 @@ def insertIntoDatabase(message):
 	"Inserts the mqtt data into the database"
 	with connection.cursor() as cursor:
 		print("Inserting data: " + str(message.topic) + ";" + str(message.payload)[2:][:-1] + ";" + str(message.qos))
-		cursor.callproc('InsertIntoMQTTTable', [str(message.topic), str(message.payload[2:][:-1]), int(message.qos)])
+		cursor.callproc('InsertIntoMQTTTable', [str(message.topic), str(message.payload)[2:][:-1], int(message.qos)])
 		connection.commit()
 
 def on_message(client, userdata, message):
