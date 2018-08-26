@@ -16,7 +16,6 @@ MQTT2MySQLBridge is a project to connect a locally running broker to a MySQL dat
 
 ```python
 client_source.username_pw_set("mqtt", "IoT")
-#client_target.username_pw_set("mqtt", "IoT")
 ```
 
 * Adjust your MySQL credentials:
