@@ -1,12 +1,13 @@
 # MQTT2MySQLBridge
 
-MQTT2MySQLBridge is a project to connect a locally running broker to a MySQL database and store the messages in a database table. The project was written and tested in Python 3.7.1.
+MQTT2MySQLBridge is a project to connect a locally running broker to a MySQL database and store the messages in a database table. The project was written and tested in Python 3.7.3.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/69v4b50ts5639ev4?svg=true)](https://ci.appveyor.com/project/SeppPenner/mqtt2mysqlbridge)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/MQTT2MySQLBridge.svg)](https://github.com/SeppPenner/MQTT2MySQLBridge/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/MQTT2MySQLBridge.svg)](https://github.com/SeppPenner/MQTT2MySQLBridge/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/MQTT2MySQLBridge.svg)](https://github.com/SeppPenner/MQTT2MySQLBridge/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/MQTT2MySQLBridge/master/License.txt)
+[![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/MQTT2MySQLBridge/badge.svg)](https://snyk.io/test/github/SeppPenner/MQTT2MySQLBridge) 
 
 ## Adjust your settings:
 
@@ -71,7 +72,7 @@ python3 bridge.py
 python3 bridgeFiltering.py
 ```
 
-## Installing the latest version of Python (Currently 3.7.0) on the Raspberry Pi:
+## Installing the latest version of Python (Currently 3.7.3) on the Raspberry Pi:
 
 https://gist.github.com/SeppPenner/6a5a30ebc8f79936fa136c524417761d
 
