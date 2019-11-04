@@ -6,7 +6,7 @@ MQTT2MySQLBridge is a project to connect a locally running broker to a MySQL dat
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/MQTT2MySQLBridge.svg)](https://github.com/SeppPenner/MQTT2MySQLBridge/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/MQTT2MySQLBridge.svg)](https://github.com/SeppPenner/MQTT2MySQLBridge/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/MQTT2MySQLBridge.svg)](https://github.com/SeppPenner/MQTT2MySQLBridge/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/MQTT2MySQLBridge/master/License.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/SeppPenner/MQTT2MySQLBridge/master/License.txt)
 [![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/MQTT2MySQLBridge/badge.svg)](https://snyk.io/test/github/SeppPenner/MQTT2MySQLBridge) 
 
 ## Adjust your settings:
