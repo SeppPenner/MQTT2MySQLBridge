@@ -1,6 +1,6 @@
 # MQTT2MySQLBridge
 
-MQTT2MySQLBridge is a project to connect a locally running broker to a MySQL database and store the messages in a database table. The project was written and tested in Python 3.7.4.
+MQTT2MySQLBridge is a project to connect a locally running broker to a MySQL database and store the messages in a database table. The project was written and tested in Python 3.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/69v4b50ts5639ev4?svg=true)](https://ci.appveyor.com/project/SeppPenner/mqtt2mysqlbridge)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/MQTT2MySQLBridge.svg)](https://github.com/SeppPenner/MQTT2MySQLBridge/issues)
@@ -90,5 +90,4 @@ https://gist.github.com/SeppPenner/6a5a30ebc8f79936fa136c524417761d
 Change history
 --------------
 
-* **Version 1.0.0.1 (2019-09-29)** : Updated python version, updated requirements.
-* **Version 1.0.0.0 (?)** : 1.0 release.
+See the [Changelog](https://github.com/SeppPenner/MQTT2MySQLBridge/blob/master/Changelog.md).
